@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ha6JvfHFQTPoafjQT/TMR7kufOLmfJI8Wp9oaGdGAeWKaukNr3dbyP6jP8R3+pSM0dZj0Sy03x817E1q7frUsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nnesh\\OneDrive\\Работен плот\\SoftUniOOp\\DI Injector\\Custom Injector\\SillyGame\\SillyGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\nnesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

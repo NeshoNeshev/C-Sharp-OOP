@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eIVFV2DD/01581el8MDSxBw0zNItzptt4KVDvtAmCd0w3sUfYobWmBQM7NQwynnM4UL9u8jsY6qaqhWdJ74Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nnesh\\OneDrive\\Работен плот\\SoftUniOOp\\DI Injector\\Custom Injector\\DIContainer\\DIContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
